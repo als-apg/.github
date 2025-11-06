@@ -15,7 +15,7 @@
 
 The **Advanced Light Source (ALS)** at [Lawrence Berkeley National Laboratory](https://www.lbl.gov) is a U.S. Department of Energy user facility that provides researchers worldwide with **bright beams of ultraviolet and x-ray light** for studies in physics, materials science, chemistry, and biology.  
 
-Operating a **1.9 GeV electron storage ring** in continuous **top-off mode**, the ALS delivers stable, high-brightness light to nearly **40 beamlines**.  
+Operating a **1.9 GeV electron storage ring** in continuous **top-off mode**, the ALS delivers stable, high-brightness light to nearly **43 beamlines**.  
 
 The upcoming [ALS-U upgrade]((https://als.lbl.gov/als-u/overview/)) will boost brightness by more than 100×, enabling experiments with **nanometer spatial** and **nanosecond temporal** resolution.
 
