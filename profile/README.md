@@ -6,7 +6,7 @@
 ### Advanced Light Source • Lawrence Berkeley National Laboratory
 
 [![Visit ALS](https://img.shields.io/badge/Visit-ALS%20Website-blue?style=for-the-badge)](https://als.lbl.gov)
-[![Berkeley Lab](https://img.shields.io/badge/Berkeley-Lab-green?style=for-the-badge)](https://www.lbl.gov)
+[![Visit Berkeley Lab](https://img.shields.io/badge/Visit-Berkeley%20Lab-1e824c?style=for-the-badge)](https://lbl.gov)
 
 </div>
 
@@ -17,7 +17,7 @@ The **Advanced Light Source (ALS)** at [Lawrence Berkeley National Laboratory](h
 
 Operating a **1.9 GeV electron storage ring** in continuous **top-off mode**, the ALS delivers stable, high-brightness light to nearly **43 beamlines**.  
 
-The upcoming [ALS-U upgrade]((https://als.lbl.gov/als-u/overview/)) will boost brightness by more than 100×, enabling experiments with **nanometer spatial** and **nanosecond temporal** resolution.
+The upcoming [ALS-U upgrade](https://als.lbl.gov/als-u/overview/) will boost brightness by more than 100×, enabling experiments with **nanometer spatial** and **nanosecond temporal** resolution.
 
 
 ## 🚀 Accelerator Physics at the ALS
